@@ -18,3 +18,7 @@
 ![Define the variable sensorValue](experiments/potentiometer/images/define_variable.png)
 
 ![Build the code](experiments/potentiometer/images/potentiometer_program.png)
+
+
+<div style="page-break-after: always;"></div>
+----
