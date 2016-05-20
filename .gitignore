@@ -1,0 +1,16 @@
+_Store
+.swp
+nbproject
+.*.swp
+.rvmrc
+.ruby-version
+.ruby-gemset
+.idea
+specs.watchr.rb
+index
+.bundle
+.sass-cache
+tags
+zeus.json
+.rbx
+
