@@ -10,9 +10,10 @@
 |Potentiometer|1|
 |LED|1|
 |Resistor|1|
-|Jumper wires|1|
+|Jumper wires|7|
 
 ## Circuit Diagram
+![](experiments/potentiometer/images/potentiometer_bb.png)
 
 ## mBlock Code
 ![Define the variable sensorValue](experiments/potentiometer/images/define_variable.png)
