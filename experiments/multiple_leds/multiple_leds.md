@@ -5,7 +5,7 @@
 | Component | Quantity |
 | :--------- | -------: |
 | LED       | 8 |
-| Resistor  |8 |
+| Resistor  | 8 |
 | Jumper wires | 10 |
 
 ## Circuit Diagram
