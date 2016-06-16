@@ -5,11 +5,11 @@
 ## mBlock Code
 
 ### Create a variable speed
-![](mbot/line_follower/images/speed_variable.png)
+![](mbot/line_follower/images/set_speed.png)
 
 
 ### Set it to the speed you want
-![](mbot/line_follower/images/set_speed.png)
+![](mbot/line_follower/images/speed_variable.png)
 
 
 ### Create a variable sensor
@@ -20,6 +20,8 @@
 ![](mbot/line_follower/images/read_line_follower.png)
 
 
+<div style="page-break-after: always;"></div>
+----
 ### If the sensor is 0 then go forwards
 ![](mbot/line_follower/images/line_follower_0.png)
 
