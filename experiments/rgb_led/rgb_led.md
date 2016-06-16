@@ -11,7 +11,7 @@
 | Jumper wires | 6 | 
 
 ## Circuit Diagram
-![](experiments/rgb_leg/images/rgb_led_bb.png)
+![](experiments/rgb_led/images/rgb_led_bb.png)
 
 ## mBlock Code
 Create variables
