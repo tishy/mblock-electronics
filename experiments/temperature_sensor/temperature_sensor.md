@@ -19,3 +19,6 @@
 | Jumper wire | | j7, + |
 | Jumper wire | 5V | + |
 | Jumper wire | GND | - |
+
+## mBlocks Code is a work in progress.
+mBlocks can't access the variables from the arduino program.
